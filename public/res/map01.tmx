@@ -23,7 +23,6 @@
   <object id="7" x="526" y="120"/>
  </objectgroup>
  <objectgroup name="Rock">
-  <object id="17" x="308" y="172"/>
-  <object id="18" x="144" y="97"/>
+
  </objectgroup>
 </map>

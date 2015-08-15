@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb567c1-b28c-424e-9e1f-7e2a45573a1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/restart_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/restart_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/src/Layers/GameOverLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/src/SimpleRecognizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/background.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/background.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/jump.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/pickup_coin.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/res/pickup_coin.ogg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/src/Layers/AnimationLayer.js" afterPath="$PROJECT_DIR$/public/src/Layers/AnimationLayer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/src/Scenes/PlayScene.js" afterPath="$PROJECT_DIR$/public/src/Scenes/PlayScene.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/src/Layers/StatusLayer.js" afterPath="$PROJECT_DIR$/public/src/Layers/StatusLayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/src/globals.js" afterPath="$PROJECT_DIR$/public/src/globals.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/res/map00.tmx" afterPath="$PROJECT_DIR$/public/res/map00.tmx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/res/map01.tmx" afterPath="$PROJECT_DIR$/public/res/map01.tmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/project.json" afterPath="$PROJECT_DIR$/public/project.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/src/resource.js" afterPath="$PROJECT_DIR$/public/src/resource.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,7 +36,49 @@
         <entry file="file://$PROJECT_DIR$/public/src/resource.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map01.tmx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/res/map01.tmx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.67153287">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map00.tmx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/res/map00.tmx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/src/Scenes/PlayScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -57,75 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayScene.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/src/Scenes/PlayScene.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/project.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.916667">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map00.tmx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/res/map00.tmx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map01.tmx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/res/map01.tmx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleRecognizer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/src/SimpleRecognizer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc;n#Point#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimationLayer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnimationLayer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/src/Layers/AnimationLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2919708">
-              <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="122" column="40" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -160,14 +135,14 @@
         <option value="$PROJECT_DIR$/public/src/Layers/BackgroundLayer.js" />
         <option value="$PROJECT_DIR$/public/src/Layers/StatusLayer.js" />
         <option value="$PROJECT_DIR$/public/src/Layers/GameOverLayer.js" />
-        <option value="$PROJECT_DIR$/public/src/resource.js" />
         <option value="$PROJECT_DIR$/public/src/SimpleRecognizer.js" />
         <option value="$PROJECT_DIR$/public/src/globals.js" />
         <option value="$PROJECT_DIR$/public/project.json" />
         <option value="$PROJECT_DIR$/public/res/map00.tmx" />
-        <option value="$PROJECT_DIR$/public/res/map01.tmx" />
+        <option value="$PROJECT_DIR$/public/src/resource.js" />
         <option value="$PROJECT_DIR$/public/src/Scenes/PlayScene.js" />
         <option value="$PROJECT_DIR$/public/src/Layers/AnimationLayer.js" />
+        <option value="$PROJECT_DIR$/public/res/map01.tmx" />
       </list>
     </option>
   </component>
@@ -179,7 +154,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
+    <option name="x" value="2" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -447,11 +422,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439643408268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished basic game structure except for sound">
+      <created>1439654076089</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1439654076089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="2" y="23" width="1280" height="773" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -487,7 +468,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic game frame finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic game frame finished" />
+    <MESSAGE value="finished basic game structure except for sound" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished basic game structure except for sound" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,43 +736,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.916667">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/res/map01.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/res/map00.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7080292">
           <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frameworks/cocos2d-html5/cocos2d/audio/CCAudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="817" column="8" selection-start-line="817" selection-start-column="8" selection-end-line="817" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6149871">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/src/Layers/AnimationLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="40" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/src/Scenes/PlayScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -802,13 +786,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/src/Scenes/PlayScene.js">
+    <entry file="file://$PROJECT_DIR$/public/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -822,10 +804,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/src/Layers/AnimationLayer.js">
+    <entry file="file://$PROJECT_DIR$/public/res/map00.tmx">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2919708">
-          <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/res/map01.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67153287">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>

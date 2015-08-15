@@ -110,6 +110,8 @@ var AnimationLayer = cc.Layer.extend({
             this.stat = RunnerStat.jumpUp;
             this.sprite.stopAllActions();
             this.sprite.runAction(this.jumpUpAction);
+            //Jump music
+            cc.audioEngine.playEffect(res.jump_mp3, false);
         }
     },
     ctor:function (space) {
@@ -118,7 +120,7 @@ var AnimationLayer = cc.Layer.extend({
         this._debugNode = new cc.PhysicsDebugNode(this.space);
 // Parallax ratio and offset
         this.addChild(this._debugNode, 10);
-        this._debugNode.setVisible(true);
+        this._debugNode.setVisible(false);
         this.init();
     },
     init:function () {

@@ -11,11 +11,14 @@ var PlayScene = cc.Scene.extend({
         this.shapesToRemove.push(shapes[1]);
         var statusLayer = this.getChildByTag(TagOfLayer.Status);
         statusLayer.addCoin(1);
+        cc.audioEngine.playEffect(res.pickup_coin_mp3);
     },
 
     collisionRockBegin:function (arbiter, space) {
         cc.log("==game over");
         cc.director.pause();
+        //stop bg music
+        cc.audioEngine.stopMusic();
         this.addChild(new GameOverLayer());
     },
 
@@ -64,7 +67,8 @@ var PlayScene = cc.Scene.extend({
         this.gameLayer.addChild(new AnimationLayer(this.space), 0, TagOfLayer.Animation);
         this.addChild(this.gameLayer);
         this.addChild(new StatusLayer(), 0, TagOfLayer.Status);
-
+//add background music
+        cc.audioEngine.playMusic(res.background_mp3, true);
         this.scheduleUpdate();
     }
 
