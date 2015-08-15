@@ -8,10 +8,19 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d", "cocostudio"],
+    "modules" : ["cocos2d", "cocostudio", "chipmunk"],
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js"
+        "src/Layers/AnimationLayer.js",
+        "src/Layers/BackgroundLayer.js",
+        "src/Layers/MenuLayer.js",
+        "src/Layers/StatusLayer.js",
+        "src/Scenes/PlayScene.js",
+        "src/Scenes/MenuScene.js",
+        "src/globals.js",
+        "src/coin.js",
+        "src/rock.js"
+
     ]
 }
