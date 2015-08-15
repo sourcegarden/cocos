@@ -16,11 +16,13 @@
         "src/Layers/BackgroundLayer.js",
         "src/Layers/MenuLayer.js",
         "src/Layers/StatusLayer.js",
+        "src/Layers/GameOverLayer.js",
         "src/Scenes/PlayScene.js",
         "src/Scenes/MenuScene.js",
         "src/globals.js",
         "src/coin.js",
-        "src/rock.js"
+        "src/rock.js",
+        "src/SimpleRecognizer.js"
 
     ]
 }

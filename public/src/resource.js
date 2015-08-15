@@ -9,7 +9,9 @@ var res = {
     map00_tmx: "res/map00.tmx",
     map01_tmx: "res/map01.tmx",
     background_png :"res/background.png",
-    background_plist : "res/background.plist"
+    background_plist : "res/background.plist",
+    restart_n_png : "res/restart_n.png",
+    restart_s_png : "res/restart_s.png"
 };
 
 var g_resources = [
@@ -24,7 +26,10 @@ var g_resources = [
     res.map00_tmx,
     res.map01_tmx,
     res.background_png,
-    res.background_plist
+    res.background_plist,
+    res.restart_n_png,
+    res.restart_s_png
+
 ];
 
 for (var i in res) {

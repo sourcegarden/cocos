@@ -6,6 +6,13 @@ var StatusLayer = cc.Layer.extend({
     labelCoin:null,
     labelMeter:null,
     coins:0,
+    updateMeter:function (px) {
+        this.labelMeter.setString(parseInt(px / 10) + "M");
+    },
+    addCoin:function (num) {
+        this.coins += num;
+        this.labelCoin.setString("Coins:" + this.coins);
+    },
 
     ctor:function () {
         this._super();

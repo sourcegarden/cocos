@@ -9,10 +9,14 @@ var PlayScene = cc.Scene.extend({
         var shapes = arbiter.getShapes();
         // shapes[0] is runner
         this.shapesToRemove.push(shapes[1]);
+        var statusLayer = this.getChildByTag(TagOfLayer.Status);
+        statusLayer.addCoin(1);
     },
 
     collisionRockBegin:function (arbiter, space) {
         cc.log("==game over");
+        cc.director.pause();
+        this.addChild(new GameOverLayer());
     },
 
     // init space of chipmunk
