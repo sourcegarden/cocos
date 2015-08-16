@@ -16,10 +16,22 @@ var PlayScene = cc.Scene.extend({
 
     collisionRockBegin:function (arbiter, space) {
         cc.log("==game over");
+        var shapes = arbiter.getShapes();
+        var box = shapes[1];
+        var animationLayer = this.gameLayer.getChildByTag(TagOfLayer.Animation);
+        var eyeX = animationLayer.getEyeX();
+        var boombg = new cc.Sprite(res.boom_png);
+        boombg.setPosition(cc.p(box.body.p.x - eyeX - 20, box.body.p.y));
+        this.addChild(boombg);
+        cc.audioEngine.playEffect(res.boom_mp3);
+
         cc.director.pause();
+        setTimeout(function(){
         //stop bg music
         cc.audioEngine.stopMusic();
+        }, 2000);
         this.addChild(new GameOverLayer());
+
     },
 
     // init space of chipmunk

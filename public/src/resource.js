@@ -12,9 +12,11 @@ var res = {
     background_plist : "res/background.plist",
     restart_n_png : "res/restart_n.png",
     restart_s_png : "res/restart_s.png",
+    boom_png : "res/boom.png",
     background_mp3 : "res/background.mp3",
     jump_mp3 : "res/jump.mp3",
-    pickup_coin_mp3 : "res/pickup_coin.mp3"
+    pickup_coin_mp3 : "res/pickup_coin.mp3",
+    boom_mp3 : "res/boom.mp3"
 };
 
 var g_resources = [
@@ -30,11 +32,13 @@ var g_resources = [
     res.map01_tmx,
     res.background_png,
     res.background_plist,
+    res.boom_png,
     res.restart_n_png,
     res.restart_s_png,
     res.background_mp3,
     res.jump_mp3,
-    res.pickup_coin_mp3
+    res.pickup_coin_mp3,
+    res.boom_mp3
 
 ];
 
