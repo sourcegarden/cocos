@@ -17,6 +17,7 @@ var GameOverLayer = cc.LayerColor.extend({
         this.labelGameOver.setPosition(cc.p(winSize.width / 2, winSize.height /2 + 80));
         this.addChild(this.labelGameOver);
 
+
         var centerPos = cc.p(winSize.width / 2, winSize.height / 2);
         cc.MenuItemFont.setFontSize(30);
         var menuItemRestart = new cc.MenuItemSprite(
