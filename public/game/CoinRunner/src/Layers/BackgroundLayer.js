@@ -5,6 +5,8 @@
 var BackgroundLayer = cc.Layer.extend({
     map00:null,
     map01:null,
+    back_map00:null,
+    back_map01:null,
     mapWidth:0,
     mapIndex:0,
     space:null,
@@ -16,14 +18,17 @@ var BackgroundLayer = cc.Layer.extend({
             return false;
         }
         if (0 == newMapIndex % 2) {
+            this.back_map01.setPositionX(this.mapWidth * (newMapIndex + 1));
             // change mapSecond
             this.map01.setPositionX(this.mapWidth * (newMapIndex + 1));
             this.loadObjects(this.map01, newMapIndex + 1);
         } else {
             // change mapFirst
+            this.back_map00.setPositionX(this.mapWidth * (newMapIndex + 1));
             this.map00.setPositionX(this.mapWidth * (newMapIndex + 1));
             this.loadObjects(this.map00, newMapIndex + 1);
         }
+
         this.removeObjects(newMapIndex - 1);
         this.mapIndex = newMapIndex;
         return true;
@@ -90,12 +95,26 @@ var BackgroundLayer = cc.Layer.extend({
 
     init:function () {
         this._super();
+        var winsize = cc.director.getWinSize();
+        var centerpos00 = cc.p(winsize.width / 2, winsize.height / 2 + 30);
+        var centerpos01 = cc.p(winsize.width / 2 + winsize.width, winsize.height / 2 + 30);
+
+        this.back_map00 = new cc.Sprite(res.PlayBG_png);
+        this.back_map00.setPosition(centerpos00);
+        this.back_map01 = new cc.Sprite(res.PlayBG_png);
+        this.back_map01.setPosition(centerpos01);
+        this.addChild(this.back_map00);
+        this.addChild(this.back_map01);
+
+
         this.map00 = new cc.TMXTiledMap(res.map00_tmx);
         this.addChild(this.map00);
         this.mapWidth = this.map00.getContentSize().width;
         this.map01 = new cc.TMXTiledMap(res.map01_tmx);
         this.map01.setPosition(cc.p(this.mapWidth, 0));
         this.addChild(this.map01);
+
+
 
         // create sprite sheet
         cc.spriteFrameCache.addSpriteFrames(res.background_plist);
