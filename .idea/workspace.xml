@@ -2,9 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb567c1-b28c-424e-9e1f-7e2a45573a1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/CoinRunner/res/PlayBG.png" afterPath="$PROJECT_DIR$/public/game/CoinRunner/res/PlayBG.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/CoinRunner/res/map.png" afterPath="$PROJECT_DIR$/public/game/CoinRunner/res/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js" afterPath="$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/cocosstudio/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/arial-14.GlyphProject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/arial-14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/fonts/arial.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/b01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/bgMusic.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/bgMusic.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/bgMusic.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/buttonEffet.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/buttonEffet.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/buttonEffet.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/cocos2d-html5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/tools/win32/cygiconv-2.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/tools/win32/cygintl-8.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/tools/win32/cygwin1.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/tools/win32/dos2unix.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/explodeEffect.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/explodeEffect.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/explodeEffect.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/explosion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/fireEffect.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/fireEffect.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/fireEffect.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/flare.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/gameOver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/gameoverBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/libclang/libclang.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/libclang/libclang.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/libclang/libclang.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/logoBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/mainMainMusic.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/mainMainMusic.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/mainMainMusic.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/menuTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/shipDestroyEffect.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/shipDestroyEffect.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/Music/shipDestroyEffect.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/textureOpaquePack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/textureTransparentPack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/AirBaron.ccs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/AirBaron.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/AirBaron.udf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/DevToolsUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/cocosstudio/MainScene.csd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/MainScene.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/libclang/VERSION.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/clang/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/action-1.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/action-2.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_classfoot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/apidoc_classfoot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_classhead.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/apidoc_classhead.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_function.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/apidoc_function.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_function_foot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_function_head.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_function_overload.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/apidoc_function_overload.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_ns.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/apidoc_ns.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/apidoc_ns_foot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/src/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/arial-14.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/b01.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/cindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/clang/cindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_3d.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_3d_ext.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_builder.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_experimental_video.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_experimental_webView.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_extension.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_navmesh.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_physics3d.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_spine.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_studio.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/cocos2dx_ui.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/compatible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/constructor.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/conversions.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/conversions.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/enumerations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/clang/enumerations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/explosion.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/function.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/function.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/tojs/genbindings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/generator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/ifunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/ifunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/ifunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/ifunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/ccui/jsb_ccui_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/ccui/jsb_ccui_deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/ccui/jsb_ccui_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/ccui/jsb_ccui_property_impls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/chipmunk/jsb_chipmunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/chipmunk/jsb_chipmunk_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/3d/jsb_cocos2d_3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/3d/jsb_cocos2d_3d_ext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_cocos2d_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/extension/jsb_cocos2d_extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/jsb_cocos2d_studio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/ccui/jsb_cocos2d_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_cocosbuilder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/extension/jsb_ext_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/extension/jsb_ext_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_loaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/navmesh/jsb_navmesh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_opengl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_opengl_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/physics3d/jsb_physics3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/physicsSprite/jsb_physicsSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_property_impls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/jsb_spine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/jsb_studio_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/jsb_studio_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/jsb_studio_load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/jsb_studio_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/lambda.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/lambda.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/layout_foot.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/layout_foot.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/layout_foot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/layout_foot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/layout_head.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/layout_head.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/layout_head.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/layout_head.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/level01.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/manifest.webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/prelude.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/prelude.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/prelude.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/prelude.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/core/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/register.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/register.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/actors/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/scene-1.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/actors/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/sfunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/sfunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/lua/templates/sfunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/targets/spidermonkey/templates/sfunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/simple_test/simple_class.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/simple_test/simple_class.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/test.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/test.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/textureOpaquePack.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/res/textureTransparentPack.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/timelineParser-1.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/timelineParser-2.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/debugger/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/script/studio/parsers/uiParser-1.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/user.cfg.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/AirBaron/tools/bindings-generator/test/userconf.ini.sample" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/project.xcworkspace/xcuserdata/jackiezhang.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/xcuserdata/jackiezhang.xcuserdatad/xcschemes/Parkour-desktop.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/xcuserdata/jackiezhang.xcuserdatad/xcschemes/Parkour-mobile.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/xcuserdata/jackiezhang.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppController.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppController.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppController.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppDelegate.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppDelegate.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/AppDelegate.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/Parkour-mobile.LinkFileList" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/Parkour-mobile_dependency_info.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RootViewController.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RootViewController.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RootViewController.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RuntimeJsImpl.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RuntimeJsImpl.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/RuntimeJsImpl.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/SimpleConfigParser.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/SimpleConfigParser.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/SimpleConfigParser.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/main.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/main.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Objects-normal/i386/main.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Parkour-mobile.hmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/frameworks/runtime-src/proj.ios_mac/build/Parkour.build/Debug-iphonesimulator/Parkour-mobile.build/Script-3EC03834196541CD00D72B70.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/simulator/ios/Parkour-mobile.app/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/simulator/ios/Parkour-mobile.app/PkgInfo" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/CoinRunner/index.html" afterPath="$PROJECT_DIR$/public/game/CoinRunner/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cocos.iws" />
@@ -26,38 +238,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PlayBG.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/PlayBG.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resource.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/resource.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BackgroundLayer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map00.tmx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map00.tmx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,27 +258,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayScene.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlayScene.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5095368">
+            <state vertical-scroll-proportion="0.0">
               <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloBG.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/helloBG.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/AirBaron/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+              <folding>
+                <marker date="1440323130000" expanded="true" signature="2640:2700" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/AirBaron/project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/game/AirBaron/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5263158">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.625">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -103,18 +328,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimationLayer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/AnimationLayer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -158,6 +371,11 @@
         <option value="$PROJECT_DIR$/public/src/Scenes/PlayScene.js" />
         <option value="$PROJECT_DIR$/public/game/CoinRunner/res/map01.tmx" />
         <option value="$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js" />
+        <option value="$PROJECT_DIR$/public/game/CoinRunner/index.html" />
+        <option value="$PROJECT_DIR$/public/game/AirBaron/simulator.html" />
+        <option value="$PROJECT_DIR$/public/game/AirBaron/project.json" />
+        <option value="$PROJECT_DIR$/public/game/AirBaron/main.js" />
+        <option value="$PROJECT_DIR$/public/game/AirBaron/index.html" />
       </list>
     </option>
   </component>
@@ -196,7 +414,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,26 +446,8 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinRunner" />
+              <option name="myItemId" value="samples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,14 +466,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinRunner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,71 +487,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CoinRunner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinRunner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Layers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinRunner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="AirBaron" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,6 +507,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,19 +522,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/src/Scenes" />
       <recent name="$PROJECT_DIR$/public/src/Layers" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
       <browser with-js-debugger="true" />
       <method />
     </configuration>
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/game/CoinRunner/index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/cocos/public/game/AirBaron/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -447,16 +573,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
         <item index="1" class="java.lang.String" itemvalue="Node.js.www" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +619,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439915715975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added background png, tile is not ready yet">
+      <created>1439999602494</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1439999602494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -513,21 +643,21 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32724506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3984733" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -547,22 +677,120 @@
     <MESSAGE value="finished basic game structure except for sound" />
     <MESSAGE value="added sound and twicked the map" />
     <MESSAGE value="twicked the map tile" />
-    <option name="LAST_COMMIT_MESSAGE" value="twicked the map tile" />
+    <MESSAGE value="added background png, tile is not ready yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="added background png, tile is not ready yet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js</url>
-          <line>80</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/helloBG.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/GameOverLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/AnimationLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/PlayBG.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map00.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map01.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/helloBG.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/GameOverLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/AnimationLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/background.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -601,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +837,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -627,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,15 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,7 +949,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -787,9 +1003,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5095368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.625">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <marker date="1440323130000" expanded="true" signature="2640:2700" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5263158">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
