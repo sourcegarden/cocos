@@ -48,24 +48,24 @@ var GPTouchLayer = cc.Layer.extend({
 
         this._state = STATE_PLAYING;
 
-       // this._levelManager = new LevelManager(this);
+        this._levelManager = new LevelManager(this);
 
         this.initBatchNode();
 
         this.initAboutInfo();
 
         this.initShip();
-        //
-        //this.scheduleUpdate();
-        //
-        //this.schedule(this.scoreCounter, 1);
+
+        this.scheduleUpdate();
+
+        this.schedule(this.scoreCounter, 1);
 
 
-//        子弹敌人等预备
-//        BulletSprite.preSet();
-//        EnemySprite.preSet();
-//        SparkEffectSprite.preSet();
-//        ExplosionSprite.preSet();
+        //子弹敌人等预备
+        BulletSprite.preSet();
+        EnemySprite.preSet();
+        SparkEffectSprite.preSet();
+        ExplosionSprite.preSet();
 
 
     },
@@ -151,9 +151,9 @@ var GPTouchLayer = cc.Layer.extend({
 
 //            检测我们的飞船重生
             this.checkIsReborn();
-
-//            这个部分被我直接干掉了。。。因为，重复代码，没什么内容
-//            this._movingBackground(dt);
+//
+////            这个部分被我直接干掉了。。。因为，重复代码，没什么内容
+////            this._movingBackground(dt);
         }
     },
 
