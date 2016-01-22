@@ -22,8 +22,18 @@ var MMLayer = cc.Layer.extend({
         spritebg.setPosition(centerpos);
         this.addChild(spritebg);
 
+        //create main menu logo
+        var logopos = cc.p(winsize.width / 2, winsize.height * 2/ 3);
+
+        var titlebg = new cc.Sprite(res.MainMenuLogo_png);
+        titlebg.setPosition(logopos);
+        titlebg.setScale(0.8);
+        this.addChild(titlebg);
+
+
         //5.
         cc.MenuItemFont.setFontSize(60);
+        var menupos = cc.p(winsize.width / 2, winsize.height / 3);
 
         //6.create a menu and assign onPlay event callback to it
         var menuItemPlay = new cc.MenuItemSprite(
@@ -31,7 +41,7 @@ var MMLayer = cc.Layer.extend({
             new cc.Sprite(res.start_s_png), // select state image
             this.onPlay, this);
         var menu = new cc.Menu(menuItemPlay);  //7. create the menu
-        menu.setPosition(centerpos);
+        menu.setPosition(menupos);
         this.addChild(menu);
     },
 
