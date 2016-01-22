@@ -12,7 +12,7 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/MainMenu/MainMenu.js",
+        "src/MainMenu/MenuScene.js",
         "src/MainMenu/Layers/MMLayer.js"
     ]
 }

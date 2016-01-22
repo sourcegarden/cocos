@@ -1,8 +1,8 @@
 var res = {
-    HelloWorld_png : "res/HelloWorld.png",
+    MenuBg_png : "res/MenuBg.png",
     MainScene_json : "res/MainScene.json",
-    start_n_png : "res/start_n.png",
-    start_s_png : "res/start_s.png"
+    start_n_png : "res/menuStart_n.png",
+    start_s_png : "res/menuStart_s.png"
 
 };
 
