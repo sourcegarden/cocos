@@ -1,129 +1,661 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bb567c1-b28c-424e-9e1f-7e2a45573a1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/CloseNormal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/CloseNormal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/CloseSelected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/CloseSelected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/HelloWorld.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/HelloWorld.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/Scale9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/Scale9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/attack.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/attack.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/back1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/back1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/back2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/back2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/bone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/boy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/boy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/buttonBackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/event/buttonBackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/control_base.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/control_knob.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/cyan_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/event/cyan_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/fight9.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/fight9.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill/image_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill/image_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/magenta_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/event/magenta_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/meinv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/meinv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/next1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/next1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/next2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/next2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/node_128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/node_128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/node_152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/node_152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/node_256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/node_256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/node_512.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/node_512.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/node_64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/node_64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/restart1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/restart1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/base/restart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/base/restart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/yellow_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/event/yellow_square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/BaseLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/BaseLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0303/Lesson0303.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0303/Lesson0303.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0304/Lesson0304.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0304/Lesson0304.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0306/Lesson0306.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0306/Lesson0306.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0401/Lesson0401.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0401/Lesson0401.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0501/Lesson0501.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0501/Lesson0501.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0502/Lesson0502.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0502/Lesson0502.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0501/MainMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0501/MainMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0502/demo/RockerDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0502/demo/RockerSprite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/chapter01/Lesson0502/UTouchSprite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0502/UTouchSprite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/event/bone.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/boy.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/boy.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/gameConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/gameConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/action/meinv.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/action/meinv.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/project.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/project.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/src/resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/src/resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/controller_sample/res/skill.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/res/skill.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/event_sample/.idea/事件.iml" />
+    <list default="true" id="2bb567c1-b28c-424e-9e1f-7e2a45573a1d" name="Default" comment="added event sample and controller sample">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/cocosstudio/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/MainMenuLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/btn_menuStart.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/tools/win32/cygiconv-2.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/tools/win32/cygintl-8.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/tools/win32/cygwin1.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/tools/win32/dos2unix.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/libclang/libclang.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/libclang/libclang.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/libclang/libclang.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/menuBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/menuStart_n.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/menuStart_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/.cocos-project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/DevToolsUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/src/Gameplay/Layers/GPLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/src/Gameplay/GamePlayScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/GameTest.ccs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/GameTest.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/GameTest.udf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/src/MainMenu/Layers/MMLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/cocosstudio/MainScene.csd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/res/MainScene.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/src/MainMenu/MenuScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/libclang/VERSION.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/clang/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_classfoot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/apidoc_classfoot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_classhead.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/apidoc_classhead.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_function.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/apidoc_function.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_function_foot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_function_head.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_function_overload.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/apidoc_function_overload.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_ns.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/apidoc_ns.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/apidoc_ns_foot.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/cindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/clang/cindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_3d.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_3d_ext.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_builder.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_experimental_video.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_experimental_webView.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_extension.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_navmesh.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_physics3d.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_spine.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_studio.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/cocos2dx_ui.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/compatible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/constructor.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/conversions.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/conversions.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/backup/clang-llvm-3.3-pybinding/enumerations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/clang/enumerations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/function.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/function.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/tojs/genbindings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/generator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/ifunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/ifunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/ifunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/ifunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/ccui/jsb_ccui_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/ccui/jsb_ccui_deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/ccui/jsb_ccui_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/ccui/jsb_ccui_property_impls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/chipmunk/jsb_chipmunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/chipmunk/jsb_chipmunk_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/3d/jsb_cocos2d_3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/3d/jsb_cocos2d_3d_ext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_cocos2d_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/extension/jsb_cocos2d_extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/jsb_cocos2d_studio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/ccui/jsb_cocos2d_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_cocosbuilder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/extension/jsb_ext_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/extension/jsb_ext_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_loaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/navmesh/jsb_navmesh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_opengl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_opengl_constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/physics3d/jsb_physics3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/physicsSprite/jsb_physicsSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_property_impls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/jsb_spine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/jsb_studio_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/jsb_studio_create_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/jsb_studio_load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/jsb_studio_property_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/lambda.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/lambda.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/layout_foot.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/layout_foot.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/layout_foot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/layout_foot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/layout_head.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/layout_head.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/layout_head.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/layout_head.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/manifest.webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/prelude.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/prelude.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/prelude.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/prelude.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/core/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/register.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/register.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/actors/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/actors/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/sfunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/sfunction.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/lua/templates/sfunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/targets/spidermonkey/templates/sfunction_overloaded.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/simple_test/simple_class.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/simple_test/simple_class.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/test.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/test.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/timelineParser-2.x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/script/debugger/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/user.cfg.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/tools/bindings-generator/test/userconf.ini.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/game/GameTest/.settings/version.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/cocosstudio/HelloWorld.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/cocosstudio/MainScene.csd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/Base64Images.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/CCBoot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/CCDebugger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/CHANGELOG.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/README.mdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionCamera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionCatmullRom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionEase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionInstant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions/CCActionTween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid3D.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionPageTurn3D.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionTiledGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/audio/CCAudio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/compression/ZipUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/compression/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/compression/gzip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/compression/zlib.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCActionManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCCamera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCConfiguration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCDirectorCanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCDirectorWebGL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesCanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesWebGL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/CCScheduler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/BaseNodesPropertyDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/cocoa/CCAffineTransform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/cocoa/CCGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/cocos2d_externs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEvent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventExtension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventListener.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCTouch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTF.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTFCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTFWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/labelttf/LabelTTFPropertyDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayerCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayerWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCClass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCCommon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCConfig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCEGLView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCInputExtension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCInputManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCLoaders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCMacro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCSAXParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCScreen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypesPropertyDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypesWebGL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/CCVisibleRect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/platform/miniFramework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererCanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererWebGL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/scenes/CCLoaderScene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/scenes/CCScene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimationCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCBakeSprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/sprites/SpritesPropertyDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/support/CCPointExtension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/support/CCVertex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/support/TransformUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/textures/CCTexture2D.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/textures/CCTextureAtlas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/textures/CCTextureCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/textures/TexturesPropertyDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/textures/TexturesWebGL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/core/utils/BinaryLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/effects/CCGrabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/effects/CCGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/SIMDPolyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/aabb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/gl/mat4stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/gl/matrix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/mat3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/mat4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/mat4SIMD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/plane.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/quaternion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/ray2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kernel-template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4AreEqual.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Assign.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Inverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4IsIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4LookAt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Multiply.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Transpose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmVec3TransformCoord.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/run_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/utility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/vec2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/vec3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/vec3SIMD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/kazmath/vec4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelBMFont.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelBMFontCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/labels/CCLabelBMFontWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/menus/CCMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/menus/CCMenuItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/motion-streak/CCMotionStreak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/motion-streak/CCMotionStreakWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/node-grid/CCNodeGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/node-grid/CCNodeGridWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNodeRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCPNGReader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleExamples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleSystem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleSystemCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCParticleSystemWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/particle/CCTIFFReader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsDebugNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsDebugNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsDebugNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsSprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsSpriteCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsSpriteWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/progress-timer/CCActionProgressTimer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/progress-timer/CCProgressTimer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/progress-timer/CCProgressTimerCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/progress-timer/CCProgressTimerWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTexture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTextureCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTextureWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shaders/CCGLProgram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shaders/CCGLStateCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shaders/CCShaderCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shaders/CCShaders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shape-nodes/CCDrawNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shape-nodes/CCDrawNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/shape-nodes/CCDrawNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/text-input/CCIMEDispatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTGAlib.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayerCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayerWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXObjectGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXTiledMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXXMLParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/transitions/CCTransition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/transitions/CCTransitionPageTurn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/cocos2d/transitions/CCTransitionProgress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBAnimationManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBKeyframe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReaderUtil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBRelativePositioning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBSequence.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCBValue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCControlLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoaderLibrary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccb-reader/CCSpriteLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNodeCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNodeWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9Sprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9SpriteCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9SpriteWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIWidget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIWidgetRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UIHBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutParameter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UIRelativeBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/layouts/UIVBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/system/CocosGUI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/system/UIHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UICheckBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIImageView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UILoadingBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIRichText.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UISlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIText.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextAtlas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextBMFont.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextField.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIVideoPlayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIWebView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIListView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIPageView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionFrame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmature.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmatureCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmatureWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCBone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCArmatureAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCProcessBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCTween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/datas/CCDatas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCBatchNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDecorativeDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDisplayFactory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDisplayManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCSkin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCSkinCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCSkinWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/physics/CCColliderDetector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDataManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCDataReaderHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCSpriteFrameCacheHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCTransformHelp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCTweenFunction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCUtilMath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComAttribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComAudio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComRender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponentContainer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/compatible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/timelineParser-2.x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/ActionTimeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCBoneNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkeletonNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkinNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/trigger/ObjectFactory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerMng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerObj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/editbox/CCEditBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/editbox/CCdomNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlColourPicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlHuePicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlPotentiometer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlStepper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSwitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCInvocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCMenuPassive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9Sprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9SpriteCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9SpriteWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/scrollview/CCScrollView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/scrollview/CCScrollViewCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/scrollview/CCScrollViewWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/scrollview/CCSorting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/gui/scrollview/CCTableView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/spine/CCSkeleton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/spine/CCSkeletonAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/spine/CCSkeletonCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/spine/CCSkeletonWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/spine/Spine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/box2d/box2d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/chipmunk/chipmunk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/GAFBoot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/GAFMacros.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFAsset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFAssetPreload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFAtlasLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFDataReader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFMask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFMaskProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFShaderManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFShaders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFSprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFSpriteCanvasRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFSpriteProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFSpriteWebGLRenderCmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFTags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFTextField.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFTimeLine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/Library/GAFTimeLineProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/gaf_viewer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/gaf_viewer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/gaf/gaf_viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/pluginx/Plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/pluginx/platform/facebook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/pluginx/platform/facebook_sdk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/socketio/socket.io.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/external/socketio/socket.io.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/jsb_apis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-html5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-x.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/licenses/LICENSE_zlib.js.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/moduleConfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/project.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/HD/CloseNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/HD/CloseSelected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/HD/HelloWorld.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/Normal/CloseNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/Normal/CloseSelected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/Normal/HelloWorld.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/res/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/src/myApp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/template/src/resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/XmlCheck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/compiler/compiler.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/core4cc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/genBuildXml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/jsdoc_toolkit/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/publish.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/readme for tools.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/tools/template/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/AppDelegate.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/CodeIDESupport.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/RuntimeJsImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/RuntimeJsImpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/SimpleConfigParser.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/SimpleConfigParser.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/ide-support/lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/Classes/js_module_register.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/build-cfg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/gen/org/cocos2dx/Parkour/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/gen/org/cocos2dx/Parkour/Manifest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/gen/org/cocos2dx/Parkour/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/jni/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/jni/Application.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/jni/hellojavascript/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/proj.android.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/res/drawable-ldpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/com/chukong/cocosplay/client/CocosPlayClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/com/enhance/gameservice/IGameTuningService.aidl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/javascript/AppActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxAccelerometer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxBitmap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxEditBoxDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxEditText.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxGLSurfaceView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHttpURLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxJavascriptJavaBridge.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxLocalStorage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxLuaJavaBridge.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxMusic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxRenderer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxSound.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxTextInputWraper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxTypefaces.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxVideoHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxVideoView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxWebView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxWebViewHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/Parkour.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/AppController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/AppController.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Default-568h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Default-667h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Default-736h@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Default@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Icon-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/Prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/RootViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/RootViewController.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/build-cfg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/ios/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/Base.lproj/ConsoleWindow.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/Base.lproj/MainMenu.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/ConsoleWindowController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/ConsoleWindowController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/Icon.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/Prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/SimulatorApp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/SimulatorApp.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/build-cfg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/en.lproj/MainMenu.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/ConsoleWindow.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/ConsoleWindowController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/ConsoleWindowController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/DeviceEx-mac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerEditBoxServiceMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerEditBoxServiceMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerFileDialogServiceMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerFileDialogServiceMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMenuServiceMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMenuServiceMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMessageBoxServiceMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerMessageBoxServiceMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerTaskServiceMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/PlayerTaskServiceMac.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/openudid/OpenUDIDMac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/service/openudid/OpenUDIDMac.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/zh-Hans.lproj/ConsoleWindow.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.ios_mac/mac/zh-Hans.lproj/MainMenu.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/Parkour.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/Parkour.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/Parkour.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/Parkour.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/SimulatorWin.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/SimulatorWin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/build-cfg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/game.rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/main.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/res/game.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/resource.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/stdafx.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/stdafx.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/runtime-src/proj.win32/targetver.h" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/action-1.x.js" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/action-1.x.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/action-2.x.js" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/action-2.x.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/scene-1.x.js" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/scene-1.x.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/timelineParser-1.x.js" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/timelineParser-1.x.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/game/CoinRunner/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/uiParser-1.x.js" afterPath="$PROJECT_DIR$/public/game/GameTest/script/studio/parsers/uiParser-1.x.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GameOver/GameOverLayer.js" afterPath="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GameOver/GameOverLayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GamePlay/GamePlayLayer.js" afterPath="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GamePlay/GamePlayLayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/controller_sample/index.html" afterPath="$PROJECT_DIR$/public/controller_sample/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/controller_sample/project.json" afterPath="$PROJECT_DIR$/public/controller_sample/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/CoinRunner/project.json" afterPath="$PROJECT_DIR$/public/game/CoinRunner/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/game/DontStepOnWhite/project.json" afterPath="$PROJECT_DIR$/public/game/DontStepOnWhite/project.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cocos.iws" />
@@ -145,101 +677,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="www" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/www">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/TDDemo/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/event_sample/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.166667">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/event_sample/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lesson0502.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0502/Lesson0502.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8100264">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/event_sample/project.json">
+        <entry file="file://$PROJECT_DIR$/public/game/TDDemo/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/error.ejs">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/TDDemo/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <file leaf-file-name="MenuScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/MainMenu/MenuScene.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <file leaf-file-name="MMLayer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/MainMenu/Layers/MMLayer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/game/GameTest/project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7044199">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainMenu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/MainMenu/MainMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuItemSprite.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/MainMenu/Sprite/MenuItemSprite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamePlayScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/Gameplay/GamePlayScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPLayer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/Gameplay/Layers/GPLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -260,10 +792,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/main.js" />
-        <option value="$PROJECT_DIR$/public/src/PlayScene.js" />
-        <option value="$PROJECT_DIR$/public/src/BackgroundLayer.js" />
-        <option value="$PROJECT_DIR$/public/src/AnimationLayer.js" />
         <option value="$PROJECT_DIR$/public/src/StatusLayer.js" />
         <option value="$PROJECT_DIR$/public/src/Layers/MenuLayer.js" />
         <option value="$PROJECT_DIR$/public/src/app.js" />
@@ -299,6 +827,22 @@
         <option value="$PROJECT_DIR$/public/game/AirBaron/src/setting/layer/STTouchLayer.js" />
         <option value="$PROJECT_DIR$/public/event_sample/project.json" />
         <option value="$PROJECT_DIR$/public/event_sample/index.html" />
+        <option value="$PROJECT_DIR$/public/game/CoinRunner/project.json" />
+        <option value="$PROJECT_DIR$/public/game/DontStepOnWhite/index.html" />
+        <option value="$PROJECT_DIR$/public/game/AirBaron/src/gamePlay/sprite/ShipSprite.js" />
+        <option value="$PROJECT_DIR$/public/controller_sample/project.json" />
+        <option value="$PROJECT_DIR$/public/controller_sample/index.html" />
+        <option value="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GameOver/GameOverLayer.js" />
+        <option value="$PROJECT_DIR$/public/game/DontStepOnWhite/src/GamePlay/GamePlayLayer.js" />
+        <option value="$PROJECT_DIR$/public/game/DontStepOnWhite/project.json" />
+        <option value="$PROJECT_DIR$/public/game/GhostComing/project.json" />
+        <option value="$PROJECT_DIR$/public/game/GhostComing/index.html" />
+        <option value="$PROJECT_DIR$/public/game/TDDemo/project.json" />
+        <option value="$PROJECT_DIR$/public/game/TDDemo/index.html" />
+        <option value="$PROJECT_DIR$/public/game/GameTest/src/Gameplay/Layers/GPLayer.js" />
+        <option value="$PROJECT_DIR$/public/game/GameTest/src/Gameplay/GamePlayScene.js" />
+        <option value="$PROJECT_DIR$/public/game/GameTest/src/MainMenu/Layers/MMLayer.js" />
+        <option value="$PROJECT_DIR$/public/game/GameTest/project.json" />
       </list>
     </option>
   </component>
@@ -337,8 +881,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -367,21 +911,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cocos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,6 +926,328 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gameplay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gameplay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DontStepOnWhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DontStepOnWhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DontStepOnWhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DontStepOnWhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sprite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DontStepOnWhite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GamePlay" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,16 +1276,32 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/www" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="94" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="115" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="909" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="107" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="905" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/game/GameTest/src/Gameplay/Layers" />
       <recent name="$PROJECT_DIR$/public/game/AirBaron/src/about/layer" />
       <recent name="$PROJECT_DIR$/public/game/AirBaron/src/about/scene" />
       <recent name="$PROJECT_DIR$/public/game/AirBaron/src/setting/layer" />
       <recent name="$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/layer" />
-      <recent name="$PROJECT_DIR$/public/game/AirBaron/src/setting/scene" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
@@ -442,21 +1310,20 @@
       <recent name="$PROJECT_DIR$/public/src/Layers" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="Node.js.www">
+    <configuration default="false" name="main.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="public/game/CoinRunner/main.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/game/CoinRunner/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/game/AirBaron/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/controller_sample/index.html">
+      <method />
+    </configuration>
     <configuration default="false" name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
-      <browser with-js-debugger="true" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/cocos/public/game/AirBaron/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/cocos/public/samples/MoonWarrior/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cocos/public/event_sample/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -498,19 +1365,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js (1)" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.www" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.www" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.main.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -573,7 +1440,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440338094615</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added event sample and controller sample">
+      <created>1442242903140</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1442242903140</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -589,23 +1462,23 @@
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32724506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32724506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32671756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32519084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3805175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3805175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32724506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -629,7 +1502,9 @@
     <MESSAGE value="start to training on new game: AirBaron like MoonWarrior" />
     <MESSAGE value="finished main menu scene" />
     <MESSAGE value="finished setting/about scene" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished setting/about scene" />
+    <MESSAGE value="added event sample and controller sample" />
+    <MESSAGE value="added gameplay scene and layer" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gameplay scene and layer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -638,226 +1513,103 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map00.tmx">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/res/map01.tmx">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/BackgroundLayer.js">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Layers/GameOverLayer.js">
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/MainMenu/MenuScene.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/src/Scenes/PlayScene.js">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/res/mainMenu/textureTransparentPack.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/frameworks/runtime-src/Classes/ide-support/lang">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.625">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.625">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/main.js">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/mainMenu/layer/MMBackgroundLayer.js">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/gamePlay/classes/LevelManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/res/mainMenu/flare.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/res/mainMenu/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/res/mainMenu/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/setting/scene/Setting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/main.js">
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/gamePlay/scene/GamePlay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/gamePlay/layer/GPTouchLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.31694">
-          <caret line="1250" column="4" selection-start-line="1250" selection-start-column="4" selection-end-line="1250" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/layer/MMBackgroundLayer.js">
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/setting/layer/STBackgroundLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/setting/layer/STTouchLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/config/GameConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/config/GameConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/mainMenu/layer/MMMainMenuLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/mainMenu/scene/MainMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/config/Level.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/mainMenu/layer/MMTouchLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/scene/MainMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/layer/MMMainMenuLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/layer/MMTouchLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/about/scene/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/about/layer/ABBackgroundLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/about/layer/ABTouchLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -868,64 +1620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/project.json">
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/gamePlay/sprite/ShipSprite.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/setting/scene/Setting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/setting/layer/STBackgroundLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/samples/MoonWarrior/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/setting/layer/STTouchLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -933,35 +1631,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/error.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="35" />
-          <folding />
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/controller_sample/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/controller_sample/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/controller_sample/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/AirBaron/src/mainMenu/scene/MainMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/MainMenu/Sprite/MenuSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33227345">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33227345">
+          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/CoinRunner/script/jsb_cocos2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/GameOver/GameOverLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/GamePlay/GamePlayLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1424" column="0" selection-start-line="1424" selection-start-column="0" selection-end-line="1424" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -969,34 +1782,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/event_sample/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/event_sample/main.js">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/event_sample/index.html">
+    <entry file="file://$PROJECT_DIR$/public/game/TDDemo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.166667">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/event_sample/src/chapter01/Lesson0502/Lesson0502.js">
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/MainMenu/MainMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8100264">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/DontStepOnWhite/src/MainMenu/Sprite/MenuItemSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/Gameplay/Layers/GPLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/Gameplay/GamePlayScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/MainMenu/MenuScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/src/MainMenu/Layers/MMLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/game/GameTest/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7044199">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>

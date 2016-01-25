@@ -16,7 +16,6 @@ GameState.END       = 2;
 var GamePlayLayer = cc.Layer.extend({
     _model          : -1,               // 模块
     _playMethod     : -1,               // 玩法
-    _isTimeMode     : false,
     _row            : 4,                // 行
     _cell           : 4,                // 列
     _tileSize       : cc.size(0, 0),    // 块的大小
@@ -26,7 +25,6 @@ var GamePlayLayer = cc.Layer.extend({
     _moveDir        : Direction.DOWN,   // 移动方向
     _tapTileCount   : 0,                // 黑块数[踩到的]
     _time           : 0,                // 时间[花了多少]
-    _maxTime        : 0,
     _timeLabel      : null,             // 标签[时间]
     _isWin          : true,             // 是否赢了
     gameState      : GameState.READY,   // 游戏状态[准备]
@@ -60,7 +58,6 @@ var GamePlayLayer = cc.Layer.extend({
             this._cell = tmpCell >= 0 ? tmpCell : 4;
         }
 
-
         // 方向[逆行]  TODO 功能待完善
         this._moveDir = (model == 1 && playMethod == 2) ? Direction.UP : Direction.DOWN;
 
@@ -75,19 +72,6 @@ var GamePlayLayer = cc.Layer.extend({
         var width  = (GC.w - GC.titleSpace * this._cell ) / this._cell;
         var height = (GC.h - GC.titleSpace * this._row ) / this._row;
         this._tileSize = cc.size(width, height);
-        // 时间模式的最大时间
-        if (model == 2){
-            if (playMethod == 0 || playMethod == 1)
-            {
-                var regex = /([0-9]+)''/;
-                var matched = title.match(regex);
-                var time = parseInt(matched[1]);
-                this._maxTime = time;
-                cc.log("maxtime=" + time);
-                this._isTimeMode = true;
-            }
-
-        }
     },
     // 加载[自身初始化]
     loadInit : function(){
@@ -96,7 +80,7 @@ var GamePlayLayer = cc.Layer.extend({
 
         this._timeLabel = new cc.LabelTTF(this._time, "Arial", 64);
         this.addChild(this._timeLabel, 10);
-        this._timeLabel.setPosition(GC.w2, GC.h - this._timeLabel.height - 20);
+        this._timeLabel.setPosition(GC.w2, GC.h - this._timeLabel.height);
         this._timeLabel.setColor(cc.color.RED);
 
         for (var i = 0; i < this._row + 1; i++){
@@ -161,15 +145,9 @@ var GamePlayLayer = cc.Layer.extend({
         this._time += dt;
         // [正则表达式]获取小数点后三位
         var regex = /([0-9]+\.[0-9]{3})[0-9]*/;
-        var time = this._time;
-        var timeStr = String(time);
+        var timeStr = String(this._time);
         var finalStr = timeStr.replace(regex,"$1''");
         this._timeLabel.setString(finalStr);
-        if (this._isTimeMode && time >= this._maxTime)
-        {
-            this._isWin = true;
-            this.transitionToGameOver();
-        }
     },
     onTileCallBack : function(sender, isOver){
 //        var self = sender.parent.parent;
@@ -248,8 +226,7 @@ var GamePlayLayer = cc.Layer.extend({
             playMethod  : this._playMethod,
             count       : this._tapTileCount,
             time        : this._time,
-            isWin       : this._isWin,
-            isTimeMode  : this._isTimeMode
+            isWin       : this._isWin
         };
         var scene = new cc.Scene();
         var layer = new GameOverLayer(data);

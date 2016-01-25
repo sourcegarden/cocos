@@ -7,7 +7,6 @@
 var GameOverLayer = cc.LayerColor.extend({
     _model       : -1,
     _playMethod  : -1,
-    _isTimeMode  : -1,
     _count       : -1,
     _time        : -1,
     _isWin       : false,
@@ -25,7 +24,6 @@ var GameOverLayer = cc.LayerColor.extend({
             this._count      = data.count,
             this._time       = data.time,
             this._isWin      = data.isWin
-            this._isTimeMode = data.isTimeMode;
     },
     loadInit : function(){
         var color = this._isWin ? cc.color(0, 155, 45) : cc.color(180, 0, 0);
@@ -48,18 +46,11 @@ var GameOverLayer = cc.LayerColor.extend({
         this.addChild(winOrLoseLabel);
         winOrLoseLabel.setPosition(GC.w2, GC.h2);
         winOrLoseLabel.setColor(cc.color.BLACK);
-        if (this._isTimeMode)
-        {
-            var finalStr = this._count.toString() + "块";
-        }
-        else
-        {
-            // [正则表达式]获取小数点后三位
-            var regex = /([0-9]+\.[0-9]{3})[0-9]*/;
-            var timeStr = String(this._time);
-            var finalStr = timeStr.replace(regex,"$1''");
-        }
 
+        // [正则表达式]获取小数点后三位
+        var regex = /([0-9]+\.[0-9]{3})[0-9]*/;
+        var timeStr = String(this._time);
+        var finalStr = timeStr.replace(regex,"$1''");
 
         // TODO 数据存储
         var border =  5;    // 临时， 数据存储讲完后完善。
@@ -68,8 +59,6 @@ var GameOverLayer = cc.LayerColor.extend({
         this.addChild(historyOrNewLabel);
         historyOrNewLabel.setPosition(GC.w2, GC.h2 - 150);
         historyOrNewLabel.setColor(cc.color.BLACK);
-
-
     },
     loadMenu : function(){
         var goLabel = new cc.LabelTTF("继续玩", "Arial", 48);
